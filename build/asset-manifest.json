@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.57abf231.css",
+    "main.js": "/static/js/main.71800467.js",
+    "static/media/watting.gif": "/static/media/watting.afbd63856695c9dc1aa6.gif",
+    "static/media/play-table-bg.png": "/static/media/play-table-bg.5cfb9ff009ce546b2fa3.png",
+    "static/media/avatar-2.png": "/static/media/avatar-2.09a326bed3634af682bb.png",
+    "static/media/avatar-1.png": "/static/media/avatar-1.92799d7eaae25b46c006.png",
+    "static/media/caro-logo.png": "/static/media/caro-logo.48683a7cf63d21c2c7cc.png",
+    "static/media/avatar-0.png": "/static/media/avatar-0.fd4b28c11ab6bcb6eddf.png",
+    "static/media/avatar-3.png": "/static/media/avatar-3.5bac17738cd8889e7061.png",
+    "index.html": "/index.html",
+    "main.57abf231.css.map": "/static/css/main.57abf231.css.map",
+    "main.71800467.js.map": "/static/js/main.71800467.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57abf231.css",
+    "static/js/main.71800467.js"
+  ]
+}
