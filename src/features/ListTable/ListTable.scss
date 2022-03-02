@@ -1,0 +1,47 @@
+.custom-modal-password {
+  font-family: "Wheaton", sans-serif;
+
+  .ant-modal-content {
+    background: transparent !important;
+  }
+  .ant-modal-body {
+    border-radius: 10px;
+    background-color: #352144;
+    padding: 25px;
+  }
+
+  .cs-md-input {
+    background-color: #7e5a89;
+    border: none;
+    height: 40px;
+    border-radius: 10px;
+    input {
+      background-color: #7e5a89;
+      color: white;
+      font-family: "Wheaton", sans-serif;
+      font-size: 16px;
+    }
+  }
+  .anticon-eye-invisible,
+  .anticon-eye {
+    color: white !important;
+  }
+
+  .cs-md-title {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: white;
+  }
+
+  .cs-md-button {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .cs-md-error {
+    color: red;
+    padding-top: 10px;
+  }
+}

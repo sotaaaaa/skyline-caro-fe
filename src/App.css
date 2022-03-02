@@ -1,0 +1,13 @@
+.App {
+  font-family: "Wheaton", sans-serif;
+}
+
+.App {
+  /* background: url("./assets/caro-bg.jpg"); */
+  background: url("./assets/play-table-bg.png");
+
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
